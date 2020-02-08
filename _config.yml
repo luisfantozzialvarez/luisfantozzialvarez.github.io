@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luis Alvarez's Personal Webpage"
+title                    : "Luis Alvarez's Webpage"
 title_separator          : "-"
 name                     : &name "Luis A. F. Alvarez"
 description              : &description "Doctoral candidate in Statistics at the University of São Paulo."
