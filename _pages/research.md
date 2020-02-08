@@ -8,12 +8,5 @@ author_profile: true
 Working papers
 -----
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. ["Homophily in preferences or meetings? Identifying and estimating an iterative network formation model"]({{ site.url }}{{ site.baseurl}}/files/working_papers/Network_Formation_Paper_vJan2020.pdf), January 2020 (with Cristine Pinto and Vladimir Ponczek) 
+* Awarded best Econometrics paper at the 2019 Brazilian Econometric Society meeting.
