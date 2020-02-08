@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Doctoral candidate in Statistics at the University of São Paulo. My research interests lie mainly in the field of Econometrics. I have a MSc degree in Economics from the São Paulo School of Economics, FGV.
+I'm a Doctoral candidate in Statistics at the University of São Paulo. My research interests lie mainly in the field of Econometrics. Prior to my doctoral studies, I obtained a MSc degree in Economics from the São Paulo School of Economics (FGV).
