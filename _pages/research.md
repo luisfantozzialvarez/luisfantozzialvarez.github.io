@@ -16,7 +16,6 @@ Work in progress
 -----
 
 2. "Estimation and inference in parametric models with many L-moments." 
-* [Qualifying exam slides](/files/working_papers/L_Moments_slides.pdf).
 
 3. "Improved inference in local polynomial Quantile Regression".
 
