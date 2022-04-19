@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luis Antonio F. Alvarez"
+title                    : "Luis Alvarez"
 title_separator          : "-"
 name                     : &name "Luis Antonio Fantozzi Alvarez"
 description              : &description "Doctoral candidate in Statistics at the University of São Paulo."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Luis Antonio Fantozzi Alvarez"
+  name             : "Luis Antonio F. Alvarez"
   avatar           : "profile.jpeg"
   bio              : "Doctoral candidate in Statistics at the University of São Paulo"
   location         : "São Paulo, Brazil"
