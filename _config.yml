@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Luis Alvarez"
 title_separator          : "-"
 name                     : &name "Luis Antonio Fantozzi Alvarez"
-description              : &description "Doctoral candidate in Statistics at the University of São Paulo."
+description              : &description "Doctor in Statistics."
 url                      : https://luisfantozzialvarez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/luisfantozzialvarez.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Luis Antonio F. Alvarez"
   avatar           : "profile.jpeg"
-  bio              : "Doctoral candidate in Statistics at the University of São Paulo"
+  bio              : "Doctor in Statistics"
   location         : "São Paulo, Brazil"
   employer         :
   pubmed           : 
-  googlescholar    :
-  email            :  "alvarez@ime.usp.br"
+  googlescholar    :  "hI9i9wcAAAAJ&hl"
+  email            :  "luisfantozzialvarez@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
