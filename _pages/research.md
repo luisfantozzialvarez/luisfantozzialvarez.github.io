@@ -13,19 +13,23 @@ Working papers
 
 2. ["Randomization Inference Tests for Shift-Share Designs"](https://arxiv.org/abs/2206.00999), June 2022 (with Bruno Ferman and Raoni Oliveira). 
 
+3. ["Inference in parametric models with many L-moments"](https://arxiv.org/abs/2210.04146), October 2022 (with Chang Chiann and Pedro Morettin). 
+
 Work in progress 
 -----
 
-3. "Estimation and inference in parametric models with many L-moments." 
+4. "Uniform rates for nonparametric quantile regression under weakly dependent data".
 
-4. "Semiparametric analysis of randomised experiments using L-moments."
+5. "Semiparametric modelling through L-moments".
 
-5. "Uniform rates for nonparametric quantile regression under weakly dependent data".
+6. "Quantile mixutre modelling via L-moments".
 
-6. "Robust randomization inference with nuisance parameters."
+7. "Robust randomization inference with nuisance parameters."
 
-7. "State capacity and the political costs of lockdown: a structural model
-on the state of São Paulo."
+8. "Semiparametric analysis of randomised experiments using L-moments."
+
+9. "Demand estimation under personalised pricing."
+
 
 <br/>
 <br/>
