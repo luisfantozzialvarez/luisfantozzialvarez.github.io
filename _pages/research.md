@@ -15,18 +15,21 @@ Working papers
 
 3. ["Inference in parametric models with many L-moments"](https://arxiv.org/abs/2210.04146), October 2022 (with Chang Chiann and Pedro Morettin). 
 
+4. ["Extensions for Inference in Difference-in-Differences with Few Treated Clusters"](https://arxiv.org/abs/2302.03131), February 2023 (with Bruno Ferman). 
+
 Work in progress 
 -----
 
-4. "Uniform rates for nonparametric quantile regression under weakly dependent data".
+4. "Semiparametric analysis of randomised experiments using L-moments."
+* Awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
-5. "Semiparametric modelling through L-moments".
+5. "Uniform rates for nonparametric quantile regression under weakly dependent data".
 
 6. "Quantile mixutre modelling via L-moments".
 
-7. "Robust randomization inference with nuisance parameters."
+7. "Semiparametric modelling through L-moments".
 
-8. "Semiparametric analysis of randomised experiments using L-moments."
+8. "Robust randomization inference with nuisance parameters."
 
 9. "Demand estimation under personalised pricing."
 
