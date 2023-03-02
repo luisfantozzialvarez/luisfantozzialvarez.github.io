@@ -20,18 +20,18 @@ Working papers
 Work in progress 
 -----
 
-5. "Semiparametric analysis of randomised experiments using L-moments."
+1. "Semiparametric analysis of randomised experiments using L-moments".
 * Awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
-6. "Uniform rates for nonparametric quantile regression under weakly dependent data".
+2. "Uniform rates for nonparametric quantile regression under weakly dependent data".
 
-7. "Quantile mixutre modelling via L-moments".
+3. "Quantile mixutre modelling via L-moments".
 
-8. "Semiparametric modelling through L-moments".
+4. "Semiparametric modelling through L-moments".
 
-9. "Robust randomization inference with nuisance parameters."
+5. "Robust randomization inference with nuisance parameters".
 
-10. "Demand estimation under personalised pricing."
+6. "Demand estimation under personalised pricing".
 
 
 <br/>
