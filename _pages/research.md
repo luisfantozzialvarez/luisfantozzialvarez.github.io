@@ -19,6 +19,7 @@ Working papers
 
 3. "Semiparametric analysis of randomised experiments using L-moments" (with Ciro Biderman; draft available upon request).
 * Awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
+* Older version available as Chapter 4 of my (doctoral dissertation)[https://www.teses.usp.br/teses/disponiveis/45/45133/tde-27102022-204201/publico/l_moments_redux.pdf].
 
 4. ["Inference in parametric models with many L-moments"](https://arxiv.org/abs/2210.04146), October 2022 (with Chang Chiann and Pedro Morettin). 
 
