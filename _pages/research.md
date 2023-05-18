@@ -8,20 +8,20 @@ author_profile: true
 Submitted
 -----
 
-1. ["Homophily in preferences or meetings? Identifying and estimating an iterative network formation model"](https://arxiv.org/abs/2201.06694), May 2023 (with Cristine Pinto and Vladimir Ponczek). 
+1. ["Inference in parametric models with many L-moments"](https://arxiv.org/abs/2210.04146), May 2023 (with Chang Chiann and Pedro Morettin). 
+
+2. ["Homophily in preferences or meetings? Identifying and estimating an iterative network formation model"](https://arxiv.org/abs/2201.06694), April 2023 (with Cristine Pinto and Vladimir Ponczek). 
 * Awarded best Econometrics paper at the 2019 Brazilian Econometric Society meeting.
 
-2. ["Inference in Difference-in-Differences with Few Treated Units and Spatial Correlation"](https://arxiv.org/abs/2006.16997), April 2023 (with Bruno Ferman).
+3. ["Inference in Difference-in-Differences with Few Treated Units and Spatial Correlation"](https://arxiv.org/abs/2006.16997), April 2023 (with Bruno Ferman).
 
 
 Working papers
 -----
 
-3. "Semiparametric analysis of randomised experiments using L-moments" (with Ciro Biderman; draft available upon request).
+4. "Semiparametric analysis of randomised experiments using L-moments" (with Ciro Biderman; draft available upon request).
 * Awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 * Older version available as Chapter 4 of my [doctoral dissertation](https://www.teses.usp.br/teses/disponiveis/45/45133/tde-27102022-204201/en.php).
-
-4. ["Inference in parametric models with many L-moments"](https://arxiv.org/abs/2210.04146), October 2022 (with Chang Chiann and Pedro Morettin). 
 
 5. ["Extensions for Inference in Difference-in-Differences with Few Treated Clusters"](https://arxiv.org/abs/2302.03131), February 2023 (with Bruno Ferman). 
 
