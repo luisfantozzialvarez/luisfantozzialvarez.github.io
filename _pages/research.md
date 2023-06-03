@@ -19,21 +19,20 @@ Submitted
 Working papers
 -----
 
-4. "Semiparametric analysis of randomised experiments using L-moments" (with Ciro Biderman; draft available upon request).
-* Awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
-* Older version available as Chapter 4 of my [doctoral dissertation](https://www.teses.usp.br/teses/disponiveis/45/45133/tde-27102022-204201/en.php).
+4. "A maximal inequality for local empirical processes under weakly dependent data", June 2023 (with Cristine Pinto, draft available upon request).
 
 5. ["Extensions for Inference in Difference-in-Differences with Few Treated Clusters"](https://arxiv.org/abs/2302.03131), February 2023 (with Bruno Ferman). 
 
-6. ["Randomization Inference Tests for Shift-Share Designs"](https://arxiv.org/abs/2206.00999), June 2022 (with Bruno Ferman and Raoni Oliveira). 
+6. ["Semiparametric analysis of randomised experiments using L-moments"](https://www.dropbox.com/s/bmg0ydvoia79nh4/semiparametric_analysis_randomised_experiments.pdf?dl=0), December 2022 (with Ciro Biderman).
+* Awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
+
+7. ["Randomization Inference Tests for Shift-Share Designs"](https://arxiv.org/abs/2206.00999), June 2022 (with Bruno Ferman and Raoni Oliveira). 
 
 
 Selected work in progress
 -----
 
-7. "Quantile mixture modelling via L-moments" (with Victor Orestes).
-
-8. "Uniform rates for nonparametric quantile regression under weakly dependent data" (with Cristine Pinto).
+8. "Quantile mixture modelling via L-moments" (with Victor Orestes).
 
 9. "Approximate Bayesian Computation for structural models".
 
