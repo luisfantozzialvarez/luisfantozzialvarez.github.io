@@ -19,7 +19,7 @@ Submitted
 Working papers
 -----
 
-4. ["A maximal inequality for local empirical processes under weakly dependent data"](https://www.dropbox.com/s/yl8ote2e6eevp7s/Local%20Empirical%20Processes%20Draft.pdf?dl=0), June 2023.
+4. ["A maximal inequality for local empirical processes under weakly dependent data"](https://www.dropbox.com/s/yl8ote2e6eevp7s/Local%20Empirical%20Processes%20Draft.pdf?dl=0), June 2023 (with Cristine Pinto).
 
 5. ["Extensions for Inference in Difference-in-Differences with Few Treated Clusters"](https://arxiv.org/abs/2302.03131), February 2023 (with Bruno Ferman). 
 
