@@ -23,7 +23,7 @@ Working papers
 
 5. ["Extensions for Inference in Difference-in-Differences with Few Treated Clusters"](https://arxiv.org/abs/2302.03131), February 2023 (with Bruno Ferman). 
 
-6. ["Semiparametric analysis of randomised experiments using L-moments"](https://www.dropbox.com/s/bmg0ydvoia79nh4/semiparametric_analysis_randomised_experiments.pdf?dl=0), December 2022 (with Ciro Biderman).
+6. ["Semiparametric analysis of randomised experiments using L-moments"], December 2022 (with Ciro Biderman).
 * Awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
 7. ["Randomization Inference Tests for Shift-Share Designs"](https://arxiv.org/abs/2206.00999), June 2022 (with Bruno Ferman and Raoni Oliveira). 
