@@ -10,7 +10,7 @@ Submitted or under review
 
 1. "The learning effects of subsidies to bundled goods: a semiparametric approach", October 2023 (with Ciro Biderman).
 * Previously circulated as "Semiparametric analysis of randomised experiments using L-moments".
-* [Earlier version:](https://www.ime.usp.br/~alvarez/wp/sare.pdf) Awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
+* [Earlier version:](https://www.ime.usp.br/~alvarez/wp/sare.pdf) awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
 2. ["Inference in parametric models with many L-moments"](https://arxiv.org/abs/2210.04146), May 2023 (with Chang Chiann and Pedro Morettin). 
 
