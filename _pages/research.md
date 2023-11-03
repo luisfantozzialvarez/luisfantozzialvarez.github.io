@@ -8,7 +8,7 @@ author_profile: true
 Submitted or under review
 -----
 
-1. ["The learning effects of subsidies to bundled goods: a semiparametric approach"](https://www.dropbox.com/scl/fi/qm401qf086xuiss2rdoeo/learning.pdf?rlkey=u5f918do9cn6finea38dkeg71&dl=0), October 2023 (with Ciro Biderman).
+1. ["The learning effects of subsidies to bundled goods: a semiparametric approach"](https://arxiv.org/abs/2311.01217), October 2023 (with Ciro Biderman).
 * Previously circulated as "Semiparametric analysis of randomised experiments using L-moments".
 * [Earlier version:](https://www.ime.usp.br/~alvarez/wp/sare.pdf) awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
