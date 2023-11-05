@@ -34,6 +34,11 @@ Working papers
 8. ["Randomization Inference Tests for Shift-Share Designs"](https://arxiv.org/abs/2206.00999), June 2022 (with Bruno Ferman and Raoni Oliveira). 
 
 
+Notes
+-----
+
+1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://www.dropbox.com/scl/fi/c8esmib6blnco0j2jbuc5/main.pdf?rlkey=zonx0ddvfimz10wnp9xp89jsy&dl=0).
+
 Selected work in progress
 -----
 
