@@ -37,7 +37,7 @@ Working papers
 Notes
 -----
 
-1. "The interpretation of 2SLS with a continuous instrument: a weighted LATE representation", with Rodrigo Toneto.
+1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://www.dropbox.com/scl/fi/c8esmib6blnco0j2jbuc5/main.pdf?rlkey=zonx0ddvfimz10wnp9xp89jsy&dl=0), with Rodrigo Toneto.
 
 Selected work in progress
 -----
