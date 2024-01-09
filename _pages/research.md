@@ -41,7 +41,6 @@ Notes and Comments
 1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://papers.ssrn.com/abstract=4624610), with Rodrigo Toneto.
 
 <br/>
-<br/>
 
 
 # Selected work in progress
