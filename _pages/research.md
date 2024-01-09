@@ -13,7 +13,7 @@ Econometrics
 * Previously circulated as "Semiparametric analysis of randomised experiments using L-moments".
 * [Earlier version:](https://www.ime.usp.br/~alvarez/wp/sare.pdf) awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
-2. "Quantile mixture models: Estimation and Inference", August 2023 (with Victor Orestes; draft available upon request).
+2. "Quantile mixture models: Estimation and Inference", August 2023 (with Victor Orestes).
 * Awarded best Econometrics paper at the 2023 Brazilian Econometric Society meeting.
 * [Presentation at the FEA-USP seminar series](https://www.youtube.com/watch?v=dTlgx4WyTGM) (in Portuguese).
 
