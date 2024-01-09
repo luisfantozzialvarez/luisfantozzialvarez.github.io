@@ -1,14 +1,10 @@
 ---
 layout: archive
-title: "Research"
-excerpt: ""
+title: "Research" 
 permalink: /research/
 author_profile: true
 ---
 
-
-
-## Research papers
 
 Econometrics
 -----
@@ -48,7 +44,7 @@ Notes and Comments
 <br/>
 
 
-## Selected work in progress
+# Selected work in progress
 
 
 10. "Approximate Bayesian Computation for structural models".
