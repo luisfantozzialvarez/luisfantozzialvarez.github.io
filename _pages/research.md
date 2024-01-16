@@ -12,7 +12,6 @@ Econometrics
 -----
 
 1. ["The learning effects of subsidies to bundled goods: a semiparametric approach"](https://arxiv.org/abs/2311.01217), November 2023 (with Ciro Biderman).
-* Previously circulated as "Semiparametric analysis of randomised experiments using L-moments".
 * [Earlier version:](https://www.ime.usp.br/~alvarez/wp/sare.pdf) awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
 2. "Quantile mixture models: Estimation and Inference", August 2023 (with Victor Orestes).
