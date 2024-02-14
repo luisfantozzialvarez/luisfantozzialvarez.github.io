@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc at FGV-SP. I hold a doctoral degree in Statistics from the University of São Paulo. My research interests lie mainly in the field of Econometrics. Prior to my doctoral studies, I obtained a MSc degree in Economics from the São Paulo School of Economics (FGV).
+I am an Assistant Professor at the Department of Economics of the University of São Paulo. My research interests lie mainly in the field of Econometrics. I hold a doctoral degree in Statistics from the University of São Paulo, a MSc degree in Economics from the São Paulo School of Economics, and a BA in Economics from the University of São Paulo.
