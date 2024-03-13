@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 <br/>
-# Research Papers
 
 Econometrics
 -----
@@ -39,7 +38,7 @@ Statistics
 Notes and Comments
 -----
 
-1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](/files/papers/iv_note.pdf), with Rodrigo Toneto, forthcoming at <em> Economics Letters </em>.
+1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](/files/papers/iv_note.pdf), with Rodrigo Toneto, forthcoming at <em>Economics Letters</em>.
 
 <br/>
 

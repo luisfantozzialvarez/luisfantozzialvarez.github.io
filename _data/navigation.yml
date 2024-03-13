@@ -10,7 +10,7 @@ main:
     url: /cv/
 
   - title: "Teaching"
-    Url: /teaching/
+    url: /teaching/
     
   - title: "Code"
     url: http://github.com/luisfantozzialvarez
