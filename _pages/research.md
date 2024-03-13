@@ -9,7 +9,7 @@ Econometrics
 -----
 
 1. ["The learning effects of subsidies to bundled goods: a semiparametric approach"](https://arxiv.org/abs/2311.01217), with Ciro Biderman.
-* [Earlier version:](https://www.ime.usp.br/~alvarez/wp/sare.pdf) awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
+* [Earlier version:](/files/papers/sare.pdf) awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
 2. "Quantile mixture models: Estimation and Inference", with Victor Orestes.
 * Awarded best Econometrics paper at the 2023 Brazilian Econometric Society meeting.
