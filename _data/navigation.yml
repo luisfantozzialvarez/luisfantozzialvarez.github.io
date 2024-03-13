@@ -9,7 +9,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - time: "Teaching"
+  - title: "Teaching"
     Url: /teaching/
     
   - title: "Code"
