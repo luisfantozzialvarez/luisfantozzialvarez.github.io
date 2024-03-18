@@ -36,7 +36,7 @@ Statistics
 Notes and Comments
 -----
 
-1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](/files/papers/iv_note.pdf), with Rodrigo Toneto, forthcoming at <em>Economics Letters</em>.
+1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://authors.elsevier.com/a/1inEwbZee2T23), with Rodrigo Toneto, published at <em>Economics Letters</em>, April 2024.
 
 <br/>
 
