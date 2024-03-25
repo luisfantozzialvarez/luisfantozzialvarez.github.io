@@ -33,7 +33,7 @@ Statistics
 2. ["Inference in parametric models with many L-moments"](https://arxiv.org/abs/2210.04146), with Chang Chiann and Pedro Morettin. 
 
 
-Notes and Comments
+Notes
 -----
 
 1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://authors.elsevier.com/a/1inEwbZee2T23), with Rodrigo Toneto, published at <em>Economics Letters</em>, April 2024.
