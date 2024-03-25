@@ -86,7 +86,7 @@ author:
   location         : "São Paulo, Brazil"
   employer         : "University of São Paulo"
   pubmed           : 
-  googlescholar    :  
+  googlescholar    :  "https://scholar.google.com/citations?user=hI9i9wcAAAAJ&hl"
   email            :  "luis.alvarez@usp.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
