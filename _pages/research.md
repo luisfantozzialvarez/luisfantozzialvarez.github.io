@@ -38,8 +38,8 @@ Statistics
 Notes and Comments
 -----
 
-1. ["On 'Imputation of Counterfactual Outcomes when the Errors are Predictable': Discussions on Misspecification and Suggestions of Sensitivity Analyses"](files/papers/comment_jbes.pdf), with Bruno Ferman, invited discussion at the <em>Journal of Business \& Economics Statistics</em>.
-2. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://authors.elsevier.com/a/1inEwbZee2T23), with Rodrigo Toneto, published at <em>Economics Letters</em>, April 2024.
+1. ["On 'Imputation of Counterfactual Outcomes when the Errors are Predictable': Discussions on Misspecification and Suggestions of Sensitivity Analyses"](files/papers/comment_jbes.pdf), with Bruno Ferman, invited discussion at the <em>Journal of Business & Economics Statistics</em>.
+2. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://www.sciencedirect.com/science/article/pii/S0165176524001411), with Rodrigo Toneto, published at <em>Economics Letters</em>, April 2024.
 
 <br/>
 
