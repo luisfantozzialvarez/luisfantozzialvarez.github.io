@@ -18,11 +18,13 @@ Econometrics
 3. ["Homophily in preferences or meetings? Identifying and estimating an iterative network formation model"](https://arxiv.org/abs/2201.06694), with Cristine Pinto and Vladimir Ponczek. 
 * Awarded best Econometrics paper at the 2019 Brazilian Econometric Society meeting.
 
-4. ["Inference in Difference-in-Differences with Few Treated Units and Spatial Correlation"](https://arxiv.org/abs/2006.16997), with Bruno Ferman.
+4. "Approximate Bayesian Computation for structural models" (new draft coming soon).
 
-5. ["Extensions for Inference in Difference-in-Differences with Few Treated Clusters"](https://arxiv.org/abs/2302.03131), with Bruno Ferman. 
+5. ["Inference in Difference-in-Differences with Few Treated Units and Spatial Correlation"](https://arxiv.org/abs/2006.16997), with Bruno Ferman.
 
-6. ["Randomization Inference Tests for Shift-Share Designs"](https://arxiv.org/abs/2206.00999), with Bruno Ferman and Raoni Oliveira. 
+6. ["Extensions for Inference in Difference-in-Differences with Few Treated Clusters"](https://arxiv.org/abs/2302.03131), with Bruno Ferman. 
+
+7. ["Randomization Inference Tests for Shift-Share Designs"](https://arxiv.org/abs/2206.00999), with Bruno Ferman and Raoni Oliveira. 
 
 
 Statistics
@@ -33,10 +35,11 @@ Statistics
 2. ["Inference in parametric models with many L-moments"](https://arxiv.org/abs/2210.04146), with Chang Chiann and Pedro Morettin. 
 
 
-Notes
+Notes and Comments
 -----
 
-1. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://authors.elsevier.com/a/1inEwbZee2T23), with Rodrigo Toneto, published at <em>Economics Letters</em>, April 2024.
+1. ["On 'Imputation of Counterfactual Outcomes when the Errors are Predictable': Discussions on Misspecification and Suggestions of Sensitivity Analyses"](files/papers/comment_jbes.pdf), with Bruno Ferman, invited discussion at the <em>Journal of Business \& Economics Statistics</em>.
+2. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://authors.elsevier.com/a/1inEwbZee2T23), with Rodrigo Toneto, published at <em>Economics Letters</em>, April 2024.
 
 <br/>
 
@@ -44,13 +47,11 @@ Notes
 # Selected work in progress
 
 
-10. "Approximate Bayesian Computation for structural models".
+1. "Robust randomization inference with nuisance parameters".
 
-11. "Robust randomization inference with nuisance parameters".
+2. "Demand estimation under personalized pricing".
 
-12. "Demand estimation under personalized pricing".
-
-13. "Sensitivity analyses for treatment effect heterogeneity".
+3. "Sensitivity analyses for treatment effect heterogeneity".
 
 
 
