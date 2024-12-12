@@ -15,7 +15,7 @@ Working Papers
 
 2. ["Corporate Effects of Monetary Policy: Evidence from the Central Bank facility lines"](https://drive.google.com/file/d/1LzaNfjCgHV8MW0fEsWQomDIw-TrK3Dgm/view?usp=sharing_), with [Victor Orestes](https://economics.mit.edu/people/phd-students/victor-orestes) and Thiago Silva.
 
-3. "Inference on model parameters with many L-moments" (new draft coming soon; [earlier version](https://arxiv.org/abs/2210.04146)), revision requested by the <em> Journal of Econometrics </em>, with Chang Chiann and [Pedro Morettin](https://www.ime.usp.br/~pam/). 
+3. "Inference on model parameters with many L-moments" (new draft coming soon; [earlier version](https://arxiv.org/abs/2210.04146)), revision requested by the <em> Journal of Econometrics</em>, with Chang Chiann and [Pedro Morettin](https://www.ime.usp.br/~pam/). 
 
 
 4. ["The learning effects of subsidies to bundled goods: a semiparametric approach"](https://arxiv.org/abs/2311.01217), with Ciro Biderman.
