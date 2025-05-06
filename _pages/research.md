@@ -15,13 +15,13 @@ Working Papers
 
 2. ["Corporate Effects of Monetary Policy: Evidence from the Central Bank facility lines"](https://drive.google.com/file/d/1LzaNfjCgHV8MW0fEsWQomDIw-TrK3Dgm/view?usp=sharing_), with [Victor Orestes](https://economics.mit.edu/people/phd-students/victor-orestes) and Thiago Silva.
 
-3. "Inference on model parameters with many L-moments" (new version coming soon; [earlier version](https://arxiv.org/abs/2210.04146)), revision requested by the <em> Journal of Econometrics</em>, with Chang Chiann and [Pedro Morettin](https://www.ime.usp.br/~pam/). 
+3. ["Inference on model parameters with many L-moments"](https://arxiv.org/abs/2210.04146), revision requested by the <em> Journal of Econometrics</em>, with Chang Chiann and [Pedro Morettin](https://www.ime.usp.br/~pam/). 
 
 
 4. ["The learning effects of subsidies to bundled goods: a semiparametric approach"](https://arxiv.org/abs/2311.01217), with Ciro Biderman.
 * [Earlier version](/files/papers/sare.pdf) awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
 
-5. "Homophily in preferences or meetings? Identifying and estimating an iterative network formation model" ([updated version](https://arxiv.org/abs/2201.06694)), with [Cristine Pinto](https://sites.google.com/site/cristinepinto/Home) and [Vladimir Ponczek](https://sites.google.com/site/vponczek/). 
+5. ["Homophily in preferences or meetings? Identifying and estimating an iterative network formation model"](https://arxiv.org/abs/2201.06694), with [Cristine Pinto](https://sites.google.com/site/cristinepinto/Home) and [Vladimir Ponczek](https://sites.google.com/site/vponczek/). 
 * Awarded best Econometrics paper at the 2019 Brazilian Econometric Society meeting.
 
 6. "Approximate Bayesian Computation for structural models" (new draft coming soon; [2023 LAMES slides](https://drive.google.com/file/d/1xYQJ39rmcbecQ7fUTJuvgggVr7UW_Vd-/view?usp=share_link)).
