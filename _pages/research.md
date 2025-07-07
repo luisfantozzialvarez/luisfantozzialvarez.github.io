@@ -9,6 +9,7 @@ Working Papers
 -----
 
 1. ["Causal inference with few treated units"](https://arxiv.org/abs/2504.19841), with Bruno Ferman and Kaspar Wüthrich.
+* See the companion [discussion](https://arxiv.org/abs/2506.14998) on different inferential targets in few treated settings.
 
 2. ["Quantile mixture models: Estimation and Inference"](https://economics.mit.edu/sites/default/files/inline-files/QMM_Alvarez_Orestes_0.pdf), with [Victor Orestes](https://economics.mit.edu/people/phd-students/victor-orestes).
 * Awarded best Econometrics paper at the 2023 Brazilian Econometric Society meeting.
