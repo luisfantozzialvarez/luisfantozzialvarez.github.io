@@ -38,7 +38,7 @@ Working Papers
 Publications
 -----
 
-1. ["Inference on model parameters with many L-moments"](https://arxiv.org/abs/2210.04146), accepted for publication at the <em> Journal of Econometrics</em>, with Chang Chiann and [Pedro Morettin](https://www.ime.usp.br/~pam/). 
+1. ["Inference on model parameters with many L-moments"](https://arxiv.org/abs/2210.04146), with Chang Chiann and [Pedro Morettin](https://www.ime.usp.br/~pam/), accepted for publication at the <em> Journal of Econometrics</em>. 
 2. ["On 'Imputation of Counterfactual Outcomes when the Errors are Predictable': Discussions on Misspecification and Suggestions of Sensitivity Analyses"](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2359594), with [Bruno Ferman](https://sites.google.com/site/brunoferman/), invited discussion at the <em>Journal of Business & Economics Statistics</em>, October 2024.
 3. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://www.sciencedirect.com/science/article/pii/S0165176524001411), with Rodrigo Toneto, published at <em>Economics Letters</em>, April 2024. [Supplemental Appendix](/files/papers/supplement_iv_note.pdf).
 
