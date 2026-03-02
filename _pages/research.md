@@ -16,6 +16,7 @@ Working Papers
 * [Presentation at the FEA-USP seminar series](https://www.youtube.com/watch?v=dTlgx4WyTGM) (in Portuguese).
 
 3. ["Corporate Effects of Monetary Policy: Evidence from the Central Bank facility lines"](https://drive.google.com/file/d/1LzaNfjCgHV8MW0fEsWQomDIw-TrK3Dgm/view?usp=sharing_), with [Victor Orestes](https://economics.mit.edu/people/phd-students/victor-orestes) and Thiago Silva.
+* Awarded best Finance paper at the 2025 Brazilian Econometric Society meeting.
 
 4. ["The learning effects of subsidies to bundled goods: a semiparametric approach"](https://arxiv.org/abs/2311.01217), with Ciro Biderman.
 * [Earlier version](/files/papers/sare.pdf) awarded best Econometrics paper at the 2022 Brazilian Econometric Society meeting.
