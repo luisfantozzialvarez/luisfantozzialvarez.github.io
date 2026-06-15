@@ -8,8 +8,7 @@ author_profile: true
 Working Papers
 -----
 
-1. ["Causal inference with few treated units"](https://arxiv.org/abs/2504.19841), with [Bruno Ferman](https://sites.google.com/site/brunoferman/) and [Kaspar Wüthrich](https://sites.google.com/site/wuethricheconomics).
-* See the companion [discussion](https://arxiv.org/abs/2506.14998) on different inferential targets in few treated settings.
+* ["On the relationship between prediction intervals, tests of sharp nulls and inference on realized treatment effects in settings with few treated units"](https://arxiv.org/abs/2506.14998), with [Bruno Ferman](https://sites.google.com/site/brunoferman/).
 
 2. ["Quantile mixture models: Estimation and Inference"](https://economics.mit.edu/sites/default/files/inline-files/QMM_Alvarez_Orestes_0.pdf), with [Victor Orestes](https://www.victororestes.com/) (new draft coming soon!).
 * Awarded best Econometrics paper at the 2023 Brazilian Econometric Society meeting.
@@ -39,6 +38,7 @@ Working Papers
 Publications
 -----
 
+1. ["Causal inference with few treated units"](https://arxiv.org/abs/2504.19841), with [Bruno Ferman](https://sites.google.com/site/brunoferman/) and [Kaspar Wüthrich](https://sites.google.com/site/wuethricheconomics), accepted for publication at the  <em> Journal of Political Economy: Microeconomics</em>.
 1. ["Inference on model parameters with many L-moments"](https://www.sciencedirect.com/science/article/pii/S0304407625001551), with Chang Chiann and [Pedro Morettin](https://www.ime.usp.br/~pam/), published at the <em> Journal of Econometrics</em>, November 2025. [Supplemental Appendix](/files/papers/supplement_lmoments_redux.pdf).
 2. ["On 'Imputation of Counterfactual Outcomes when the Errors are Predictable': Discussions on Misspecification and Suggestions of Sensitivity Analyses"](https://www.tandfonline.com/doi/full/10.1080/07350015.2024.2359594), with [Bruno Ferman](https://sites.google.com/site/brunoferman/), invited discussion at the <em>Journal of Business & Economic Statistics</em>, October 2024.
 3. ["The interpretation of 2SLS with a continuous instrument: a weighted LATE representation"](https://www.sciencedirect.com/science/article/pii/S0165176524001411), with Rodrigo Toneto, published at <em>Economics Letters</em>, April 2024. [Supplemental Appendix](/files/papers/supplement_iv_note.pdf).
