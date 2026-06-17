@@ -8,7 +8,7 @@ author_profile: true
 Working Papers
 -----
 
-* ["On the relationship between prediction intervals, tests of sharp nulls and inference on realized treatment effects in settings with few treated units"](https://arxiv.org/abs/2506.14998), with [Bruno Ferman](https://sites.google.com/site/brunoferman/).
+1. ["On the relationship between prediction intervals, tests of sharp nulls and inference on realized treatment effects in settings with few treated units"](https://arxiv.org/abs/2506.14998), with [Bruno Ferman](https://sites.google.com/site/brunoferman/).
 
 2. ["Quantile mixture models: Estimation and Inference"](https://economics.mit.edu/sites/default/files/inline-files/QMM_Alvarez_Orestes_0.pdf), with [Victor Orestes](https://www.victororestes.com/) (new draft coming soon!).
 * Awarded best Econometrics paper at the 2023 Brazilian Econometric Society meeting.
