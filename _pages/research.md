@@ -12,7 +12,7 @@ Working Papers
 
 2. ["Quantile mixture models: Theory and Applications"](https://drive.google.com/file/d/1QLChCLyvMwAQqvcCcuFeeYUpjumuy5xB/view?usp=drive_link), with [Victor Orestes](https://www.victororestes.com/) [<span style="color:red">**newly updated**</span>].
 * Awarded best Econometrics paper at the 2023 Brazilian Econometric Society meeting.
-* [Presentation at the FEA-USP seminar series](https://www.youtube.com/watch?v=dTlgx4WyTGM) (in Portuguese).
+* [Presentation of an earlier version at the FEA-USP seminar series](https://www.youtube.com/watch?v=dTlgx4WyTGM) (in Portuguese).
 
 3. ["Corporate Effects of Monetary Policy: Evidence from the Central Bank facility lines"](https://drive.google.com/file/d/1LzaNfjCgHV8MW0fEsWQomDIw-TrK3Dgm/view?usp=sharing_), with [Victor Orestes](https://www.victororestes.com/) and Thiago Silva.
 * Awarded best Finance paper at the 2025 Brazilian Econometric Society meeting.
