@@ -10,7 +10,7 @@ Working Papers
 
 1. ["On the relationship between prediction intervals, tests of sharp nulls and inference on realized treatment effects in settings with few treated units"](https://arxiv.org/abs/2506.14998), with [Bruno Ferman](https://sites.google.com/site/brunoferman/).
 
-2. ["Quantile mixture models: Theory and Applications"](https://drive.google.com/file/d/1QLChCLyvMwAQqvcCcuFeeYUpjumuy5xB/view?usp=drive_link), with [Victor Orestes](https://www.victororestes.com/) [<span style="color:red">*newly updated*</span>].
+2. ["Quantile mixture models: Theory and Applications"](https://drive.google.com/file/d/1QLChCLyvMwAQqvcCcuFeeYUpjumuy5xB/view?usp=drive_link), with [Victor Orestes](https://www.victororestes.com/) [<span style="color:red">**newly updated**</span>].
 * Awarded best Econometrics paper at the 2023 Brazilian Econometric Society meeting.
 * [Presentation at the FEA-USP seminar series](https://www.youtube.com/watch?v=dTlgx4WyTGM) (in Portuguese).
 
@@ -27,7 +27,7 @@ Working Papers
 
 7. ["A maximal inequality for local empirical processes under weakly dependent data"](https://arxiv.org/abs/2307.01328),  with [Cristine Pinto](https://sites.google.com/site/cristinepinto/Home).
 
-8. ["Inference in Difference-in-Differences with Few Treated Units and Spatial Correlation"](https://arxiv.org/abs/2006.16997), with [Bruno Ferman](https://sites.google.com/site/brunoferman/) [<span style="color:red">*newly updated*</span>].
+8. ["Inference in Difference-in-Differences with Few Treated Units and Spatial Correlation"](https://arxiv.org/abs/2006.16997), with [Bruno Ferman](https://sites.google.com/site/brunoferman/).
 
 9. ["Extensions for Inference in Difference-in-Differences with Few Treated Clusters"](https://arxiv.org/abs/2302.03131), with [Bruno Ferman](https://sites.google.com/site/brunoferman/). 
 
